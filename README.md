@@ -1,6 +1,8 @@
 **The Starting Point** folder contains the actual CTF for those who want to solve it.
 **The source** folder contains all the source code and files used to create this CTF, and a doc with an explanation about it.
-**Write Ups** folder contains the write-up to solve the CTF written by me, and the source code I used to solve it.
+**Write Ups** folder contains the write-up to solve the CTF written by me.
+**Solution Files** contains the files that i used to solve the CTF.
+
 # RMM-CTF
 The CTF involves these key topics: network traffic simulation, DNS request analysis, HTTP communication, encryption (e.g., Vigenère cipher), and reverse-engineering executables. Participants must analyze packets, bypass web security, decrypt data, and reverse-engineer EXE files to solve the challenge and retrieve the flag.
 The CTF challenge involves the following key topics:
