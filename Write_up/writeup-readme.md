@@ -1,4 +1,4 @@
-# Puzzle Write-up
+# CTF Write-up
 
 This README file provides a step-by-step solution for the puzzle, including references to important images.
 
